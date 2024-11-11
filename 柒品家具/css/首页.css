@@ -1,0 +1,579 @@
+
+.box2{
+    width: 100%;
+    height: 70px;
+    /* background-color: orange; */
+}
+.box2>.container{
+    width: 1200px;
+    height: 100%;
+    /* background-color: pink; */
+}
+.box2 .listbt{
+    width: 504px;
+    height: 22px;
+    /* background-color: red; */
+    margin: 0 auto;
+    padding-top: 24px;
+    /* line-height: 70px; */
+    /* text-align: center; */
+}
+
+.box2 .list>li{
+    /* width: 31px; */
+    /* height: 15px; */
+    /* display: block; */
+    float: left;
+    margin-right: 40px;
+    color: #6a6a6a;
+}
+
+.box2 .list>li:hover {
+    padding-bottom: 1px;
+    border-bottom: 2px solid #2b6e5a; /  
+}
+
+
+/* 轮播图 */
+.lbt{
+    width: 100%;
+    height: 380px;
+    margin-bottom: 60px;
+    background-image: url(../images/切图/banner.png);
+}
+
+/* 新品首发 */
+.box3{
+    width: 100%;
+    height: 450px;
+    position: relative;
+}
+.box3>.container{
+    width: 1200px;
+    height: 430px;
+    margin: 0 auto;
+    /* background-color: orange; */
+}
+.box3 .bt{
+    width: 100%;
+    height: 44px;
+    /* background-color: pink; */
+    /* padding-right: 20px; */
+}
+.box3 .bt>.text1{
+    width: 114px;
+    height: 26px;
+    font-size: 26px;
+    float: left;
+    color: #333333;
+    padding-bottom:10px;
+    border-bottom: 2px solid #2b6e5a;
+}
+.box3 .bt>.text2{
+    width: 80px;
+    height: 14px;
+    font-size: 14px;
+    color: #b3b3b3;
+    padding-top: 12px;
+    float: right;
+    position: relative;
+}
+.box3 .bt .text2>.lj{
+    width: 12px;
+    height: 12px;
+    display: block;
+    /* float: right; */
+    background-image: url(../images/切图/图标/路径2.png);
+    background-repeat: no-repeat;
+    position:absolute;
+    right: 3px;
+    top: 16px;
+}
+
+.tpwz{
+    width: 270px;
+    height: 344px;
+    margin-right: 30px;
+    margin-bottom: 60px;
+    /* background-color:red; */
+    float: left;
+}
+.xpsf1{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/首页/新品首发图片/图层1.png);
+}
+.xpsf2{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/首页/新品首发图片/图层2.png);
+}
+.xpsf3{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/首页/新品首发图片/图层3.png);
+}
+.xpsf4{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/首页/新品首发图片/摄图网_500793810.png);
+}
+
+.wb{
+    width: 270px;
+    height: 74px;
+}
+.wb>p{
+    color: #ababab;
+    text-align: center;
+    line-height: 18px;
+    margin-bottom: 5px;
+}
+.wb>span{
+    display: block;
+    text-align: center;
+    line-height: 16px;
+    font-size: 16px;
+    color: #e56f6e;
+}
+
+.xyuan{
+    color: #dbdbdb;
+    font-size: 12px;
+}
+.zyan{
+    width: 1300px;
+    height: 50px;
+    /* background-color: blue; */
+    position: absolute;
+    left: 285px;
+    top: 153px;
+}
+.zyan>div{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #2b6e5a;
+}
+.zuo{
+    position: relative;
+    float: left;
+}
+.you{
+    position: relative;
+    float: right;
+}
+.zan{
+    display: block;
+    width: 25px;
+	height: 25px;
+    background-image: url(../images/切图/图标/返回键拷贝.png);
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 17px;
+    top: 15px;
+}
+.yan{
+    width: 13px;
+	height: 22px;
+    display: block;
+    background-image: url(../images/切图/图标/返回键.png);
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 17px;
+    top: 15px;
+
+}
+
+
+/* 热销推荐 */
+.box4{
+    width: 100%;
+    height: 860px;
+    /* background-color: pink; */
+}
+.box4 .container{
+    width: 1200px;
+    height: 100%;
+    /* background-color: orange; */
+    margin: 0 auto;
+}
+
+.box4 .bt{
+    width: 100%;
+    height: 44px;
+    /* background-color: pink; */
+    /* padding-right: 20px; */
+}
+.box4 .bt>.text1{
+    width: 114px;
+    height: 26px;
+    font-size: 26px;
+    float: left;
+    color: #333333;
+    margin-right: 45px;
+    padding-bottom:10px;
+    border-bottom: 2px solid black;
+}
+.box4 .bt>.text2{
+    width: 80px;
+    height: 14px;
+    font-size: 14px;
+    color: #b3b3b3;
+    padding-top: 12px;
+    float: right;
+    position: relative;
+}
+.box4 .bt .text2>.lj{
+    width: 12px;
+    height: 12px;
+    display: block;
+    /* float: right; */
+    background-image: url(../images/切图/图标/路径2.png);
+    background-repeat: no-repeat;
+    position:absolute;
+    right: 3px;
+    top: 16px;
+}
+.box4 .bt>.text12{
+    width: 57px;
+    height: 14px;
+    font-size: 14px;
+    color: #4f8675;
+    padding-top: 12px;
+    float: left;
+    margin-right: 45px;
+    padding-bottom:5px;
+    border-bottom: 2px solid #4f8675;
+}
+
+.box4 .bt>.text13{
+    width: 57px;
+    height: 14px;
+    font-size: 14px;
+    color: black;
+    padding-top: 12px;
+    float: left;
+}
+
+.box4 .pcbox2{
+    width: 100%;
+    height: 745px;
+    /* background-color: yellow; */
+}
+
+.rqtj1{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/首页/热销推荐/图层4.png);
+}
+.rqtj2{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/首页/热销推荐/图层5.png);
+}
+.rqtj3{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/首页/热销推荐/图层6.png);
+}
+.rqtj4{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/首页/热销推荐/图层7.png);
+}
+.rqtj5{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/首页/热销推荐/图层17.png);
+}
+.rqtj6{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/首页/热销推荐/图层18.png);
+}
+.rqtj7{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/首页/热销推荐/图层19.png);
+}
+.rqtj8{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/首页/热销推荐/图层20.png);
+}
+
+.dtp{
+    width: 100%;
+    height: 150px;
+    background-image: url(../images/切图/首页/banner.png);
+    background-size: 100%;
+
+}
+
+
+/* 全品类目 */
+.box5{
+    width: 100%;
+    height: 1200px;
+    /* background-color: pink; */
+}
+.box5 .container{
+    width: 1200px;
+    height: 100%;
+    margin: 0 auto;
+    /* background-color: yellow; */
+}
+.box5 .dhl{
+    width: 100%;
+    height: 44px;
+    margin-top: 60px;
+    position: relative;
+    /* background-color: red; */
+}
+.box5 .qplm{
+    width: 110px;
+    height: 26px;
+    font-size: 26px;
+    /* background-color: aqua; */
+    float: left;
+    line-height: 26px;
+    text-align: left;
+    border-bottom: 2px solid black;
+    padding-bottom: 10px;
+    margin-right: 50px;
+}
+.box5 .qplist{
+    width: 500px;
+    height: 25px;
+
+    /* background-color: brown; */
+    float: left;
+}
+.box5 .qplist1>li{
+    float: left;
+    margin-right: 50px;
+    padding-top: 14px;
+    font-size: 14px;
+    
+}
+
+
+.box5 .qplist1>li:hover{
+    color: #45806e;
+    border-bottom: 1px solid #45806e;
+}
+.ckgd{
+    width: 80px;
+    height: 14px;
+    font-size: 14px;
+    color: #b3b3b3;
+    padding-top: 12px;
+    float: right;
+    position: relative;
+}
+.ckgd .dyh{
+    width: 12px;
+    height: 12px;
+    display: block;
+    background-image: url(../images/切图/图标/路径2.png);
+    /* background-size: 100%; */
+    background-repeat: no-repeat;
+    /* background-color: orange; */
+    position: absolute;
+    right: 3px;
+    top: 16px;
+}
+
+
+.pcbox3{
+    width: 100%;
+    height: 1140px;
+}
+
+.cp1{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/首页/全品类目/图层8.png);
+}
+
+.cp2{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/首页/全品类目/图层9.png);
+}
+
+.cp3{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/首页/全品类目/图层10.png);
+}
+
+.cp4{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/首页/全品类目/图层11.png);
+}
+
+.cp5{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/首页/全品类目/图层12.png);
+}
+
+.cp6{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/首页/全品类目/图层13.png);
+}
+
+.cp7{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/首页/全品类目/图层14.png);
+}
+.cp8{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/首页/全品类目/图层15.png);
+}
+
+.cp9{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/首页/全品类目/图层21.png);
+}
+
+.cp10{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/首页/全品类目/图层22.png);
+}
+
+.cp11{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/首页/全品类目/图层23.png);
+}
+
+.cp12{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/首页/全品类目/图层24.png);
+}
+
+
+
+/* 生活家晒单 */
+.box6{
+    width: 100%;
+    height: 570px;
+}
+
+.shjsddhl{
+    width: 100%;
+    height: 44px;
+    margin-top: 70px;
+    position: relative;
+}
+.shjsd{
+    width: 130px;
+    height: 26px;
+    font-size: 26px;
+    float: left;
+    line-height: 26px;
+    text-align: left;
+    border-bottom: 2px solid black;
+    padding-bottom: 10px;
+    margin-right: 50px;
+}
+
+.shmytybz{
+    width: 150px;
+    height: 15px;
+    color: black;
+    font-size: 15px;
+    float: left;
+}
+.pcbox4{
+    width: 100%;
+    height: 370px;
+}
+.jsdpc1{
+    width: 370px;
+    height: 370px;
+    float: left;
+    position: relative;
+    margin-top: 30px;
+    margin-right: 30px;
+    background-image: url(../images/切图/首页/生活家嗮单/图层25.png);
+    background-color: #ffffff;
+	border-radius: 0px;
+	opacity: 0.5;
+    z-index: 1;
+}
+
+.tuoyuan{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: #666666;
+    position: absolute;
+    left: 146px;
+    top: 59px
+}
+.wz{
+    width: 160px;
+    height: 50px;
+    position: absolute;
+    left: 106px;
+    bottom: 153px;
+}
+.wz>p{
+    font-size: 12px;
+    color: #333333;
+    text-align: center;
+
+}
+.yhq{
+    width: 135px;
+    height: 55px;
+    color: #e39922;
+    border: 3px solid #e39922;
+    text-align: center;
+    font-size: 15px;
+    position: absolute;
+    left: 116px;
+    bottom: 68px;
+}
+.jsdpc2{
+    width: 370px;
+    height: 370px;
+    float: left;
+    margin-top: 30px;
+    margin-right: 30px;
+    background-image: url(../images/切图/首页/生活家嗮单/图层26.png);
+}
+.jsdpc3{
+    width: 370px;
+    height: 370px;
+    float: left;
+    margin-top: 30px;
+    margin-right: 30px;
+    background-image: url(../images/切图/首页/生活家嗮单/图层27.png);
+}
+
+.gfldd{
+    width: 370px;
+    height: 40px;
+    color: white;
+    text-align: center;
+    line-height: 40px;
+    background-color: #333333;
+    border-radius: 0px;
+    opacity: 0.75;
+    margin-top: 330px;
+}
+
+
+

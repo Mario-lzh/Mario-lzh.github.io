@@ -1,3 +1,52 @@
-body{
-    background-color: red;
+.box{
+    width: 1920px;
+    height: 1080px;
+    background-color: orange;
+}
+.lb1{
+    width: 300px;
+    height: 1080px;
+    float: left;
+    background-color: pink;
+}
+ul,li,ol{
+    padding: 0;
+    list-style: none;
+}
+ul{
+    display: flex;
+    margin: 25px 0px 25px 25px;
+    flex-direction: column;
+    justify-content: center;
+}
+li{
+    width: 250px;
+    height: 50px;
+    margin-top: 10px;
+    background-color: white;
+    line-height: 50px;
+    text-align: center;
+}
+.xxx{
+    width: 1620px;
+    height: 1080px;
+    float: left;
+    /* display: flex; */
+    background-color: aqua;
+}
+.zzz{
+    width: 300px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.zzz img{
+    width: 280px;
+    height: 280px;
+}
+.box2{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
 }

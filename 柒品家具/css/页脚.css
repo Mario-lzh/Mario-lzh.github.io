@@ -1,0 +1,212 @@
+/* 页脚 */
+.box7{
+    width: 100%;
+    height: 370px;
+    background-color: #222222;
+}
+.box7>.container{
+    /* background-color: orange; */
+}
+.tpz{
+    width: 1200px;
+    height: 81px;
+    background-color: #222222;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin: 0 auto;
+}
+.tpz>div{
+    float: left;
+}
+.yjbox1{
+    width: 72px;
+    height: 81px;
+    margin-right: 150px;
+    float: left;
+    position: relative;
+}
+.yjbox0{
+    width: 72px;
+    height: 81px;
+    margin-left: 75px;
+    margin-right: 150px;
+    float: left;
+    position: relative;
+}
+.yjbox{
+    width: 72px;
+    height: 81px;
+    float: left;
+    position: relative;
+}
+.yjbox2{
+    width: 126px;
+    height: 81px;
+    margin-right: 150px;
+    float: left;
+    position: relative;
+}
+.lshb{
+    width: 50px;
+    height: 50px;
+    background-image: url(../images/切图/图标/绿色环保.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin-left: 20px;
+    float: left;
+}
+.qtwly{
+    width: 50px;
+    height: 50px;
+    background-image: url(../images/切图/图标/天猫-极速退款.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin-left: 40px;
+    float: left;
+}
+.psaz{
+    width: 50px;
+    height: 50px;
+    background-image: url(../images/切图/图标/配送安装.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin-left: 20px;
+    float: left;
+}
+.thbz{
+    width: 50px;
+    height: 50px;
+    margin-right: 190px;
+    background-image: url(../images/切图/图标/退货保障.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin-left: 20px;
+    float: left;
+}
+.shsm{
+    width: 50px;
+    height: 50px;
+    background-image: url(../images/切图/图标/送货上门.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin-left: 20px;
+    float: left;
+}
+.font-1{
+    width: 72px;
+    height: 17px;
+    font-size: 18px;
+    color: white;
+    text-align: center;
+    line-height: 17px;
+    float: left;
+    position: absolute;
+    left: 10px;
+    bottom: 0;
+}
+.font-2{
+    width: 126px;
+    height: 17px;
+    font-size: 18px;
+    color: white;
+    text-align: center;
+    line-height: 17px;
+    float: left;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+hr{
+    color: white;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.xbbox{
+    width: 100%;
+    height: 250px;
+    /* background-color: blue; */
+}
+.hezi{
+    width: 960px;
+    height: 151px;
+    margin: 0 auto;
+    position: relative;
+    /* background-color: pink; */
+}
+.hezi>.logo11{
+    width: 215px;
+    height: 60px;
+    background-image: url(../images/切图/logo.png);
+    background-size: 100%;
+    margin-right: 150px;
+    background-repeat: no-repeat;
+    float: left;
+}
+.z1{
+    width: 90px;
+    height: 90px;
+    font-size: 14px;
+    margin-right: 80px;
+    color: #a0a0a0;
+    float: left;
+}
+.z2{
+    width: 60px;
+    height: 150px;
+    font-size: 14px;
+    color: #a0a0a0;
+    margin-right: 80px;
+    float: left;
+}
+.z1 ul{
+    font-size: 12px;
+    margin-bottom: 25px;
+
+}
+.z2 ul{
+    font-size: 12px;
+    margin-bottom: 25px;
+}
+.z1 li{
+    font-size: 12px;
+    color: white;
+    margin-top: 15px;
+}
+.z2 li{
+    font-size: 12px;
+    color: white;
+    margin-top: 15px;
+}
+.z3{
+    width: 90px;
+    height: 90px;
+    font-size: 14px;
+    color: #a0a0a0;
+    float: left;
+}
+.z3 ul{
+    font-size: 12px;
+    margin-bottom: 25px;
+}
+.z3 li{
+    font-size: 12px;
+    color: white;
+    margin-top: 15px;
+}
+
+.BG{
+    width: 100%;
+    height: 80px;
+    background-color: #333333;
+}
+.end{
+    width: 332px;
+    height: 14px;
+    font-size: 14px;
+    color: #787878;
+    text-align: center;
+    line-height: 14px;
+    margin-left: 794px;
+    padding-top: 33px;
+}

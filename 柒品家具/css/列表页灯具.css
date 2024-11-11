@@ -1,0 +1,336 @@
+.dhlbt{
+    width: 100%;
+    height: 60px;
+    background-color: #f8f8f8;
+}
+.dhlbt>.container{
+    width: 1200px;
+    height: 100%;
+    background-color: #f8f8f8;
+    display: flex;
+    align-items: center
+}
+.dhbt{
+    width: 80px;
+    height: 12px;
+    /* background-color: orange; */
+    display: flex;
+    justify-content: space-between;
+
+}
+.xtb{
+    width: 12px;
+    height: 12px;
+    background-image: url(../images/切图/图标/路径2.png);
+    background-repeat: no-repeat;
+}
+.dhbt>div{
+    width: 25px;
+    height: 12px;
+    font-size: 12px;
+    text-align: center;
+    line-height: 12px;
+}
+
+
+/* 分类 */
+.box4{
+    width: 100%;
+    height: 140px;
+    background-color: #f8f8f8;
+}
+.box4>.container{
+    width: 1200px;
+    height: 100%;
+    background-color: white;
+    padding: 20px 0;
+    padding-left: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.box4 .container .fl{
+    width: 330px;
+    height: 12px;
+}
+.box4 .container div ul{
+    font-size: 12px;
+    display: flex;
+    justify-content: space-between;
+}
+.box4 .container div ul li{
+    position: relative;
+}
+.box4 .container .fg{
+    width: 630px;
+    height: 12px;
+}
+.box4 .container .px{
+    width: 210px;
+    height: 12px;
+}
+.jg{
+    width: 11px;
+    height: 11px;
+    background-image: url(../images/切图/图标/价格排序.png);
+    background-repeat: no-repeat;
+    position: absolute;
+    right: -14px;
+    top: 5px;
+}
+.sjsj{
+    width: 11px;
+    height: 11px;
+    background-image: url(../images/切图/图标/上架时间排序.png);
+    background-repeat: no-repeat;
+    position: absolute;
+    right: -14px;
+    top: 5px;
+
+}
+
+/* 吊灯 */
+
+.box5{
+    width: 100%;
+    height: 740px;
+    background-color: #f8f8f8;
+    padding-top: 200px;
+    padding-bottom: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+
+}
+.btbox{
+    width: 1200px;
+    height: 50px;
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
+.djlb{
+    width: 90px;
+    height: 50px;
+    font-size: 28px;
+    text-align: center;
+    margin: 0 auto;
+}
+.djlb1{
+    width: 150px;
+    height: 50px;
+    font-size: 28px;
+    text-align: center;
+    margin: 0 auto;
+}
+.djlb1>span{
+    font-size: 14px;
+    color: #666;
+
+}
+.djlb>span{
+    font-size: 14px;
+    color: #666;
+
+}
+.box5>.container{
+    /* background-color: orange; */
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.hk{
+    width: 270px;
+    height: 340px;
+    /* background-color: red; */
+}
+
+.dd1{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/灯具列表页/吊灯/图像1.png);
+}
+.dd2{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/灯具列表页/吊灯/图像2.png);
+}
+.dd3{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/灯具列表页/吊灯/图像3.png);
+}
+.dd4{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/灯具列表页/吊灯/图像4.png);
+}
+.dd5{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/灯具列表页/吊灯/图像5.png);
+}
+.dd6{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/灯具列表页/吊灯/图像6.png);
+}
+.dd7{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/灯具列表页/吊灯/图像7.png);
+}
+.dd8{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/灯具列表页/吊灯/图像8.png);
+}
+
+
+.wb{
+    width: 270px;
+    height: 74px;
+}
+.wb>p{
+    color: #ababab;
+    text-align: left;
+    line-height: 18px;
+    margin-bottom: 5px;
+}
+.wb>span{
+    display: block;
+    text-align: left;
+    line-height: 16px;
+    font-size: 16px;
+    color: #e56f6e;
+}
+
+.xyuan{
+    color: #dbdbdb;
+    font-size: 12px;
+}
+
+/* 落地灯 */
+.ld1{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/灯具列表页/落地灯/图像17.png);
+}
+.ld2{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/灯具列表页/落地灯/图像18.png);
+}
+.ld3{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/灯具列表页/落地灯/图像19.png);
+}
+.ld4{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/灯具列表页/落地灯/图像20.png);
+}
+.ld5{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/灯具列表页/落地灯/图像21.png);
+}
+.ld6{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/灯具列表页/落地灯/图像22.png);
+}
+.ld7{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/灯具列表页/落地灯/图像23.png);
+}
+.ld8{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/灯具列表页/落地灯/图像24.png);
+}
+
+/* 台灯 */
+.td1{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/灯具列表页/台灯/图像10.png);
+}
+.td2{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/灯具列表页/台灯/图像9.png);
+}
+.td3{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/灯具列表页/台灯/图像11.png);
+}
+.td4{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/灯具列表页/台灯/图像12.png);
+}
+.td5{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/灯具列表页/台灯/图像13.png);
+}
+.td6{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/灯具列表页/台灯/图像14.png);
+}
+.td7{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/灯具列表页/台灯/图像15.png);
+}
+.td8{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/灯具列表页/台灯/图像16.png);
+}
+
+/* 灯具组合 */
+.zd1{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/灯具列表页/灯具组合/图像25.png);
+}
+.zd2{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/灯具列表页/灯具组合/图像27.png);
+}
+.zd3{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/灯具列表页/灯具组合/图像26.png);
+}
+.zd4{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/灯具列表页/灯具组合/图像28.png);
+}
+.zd5{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/灯具列表页/灯具组合/图像29.png);
+}
+.zd6{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/灯具列表页/灯具组合/图像30.png);
+}
+.zd7{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/灯具列表页/灯具组合/图像31.png);
+}
+.zd8{
+    width: 270px;
+    height: 270px;
+    background-image: url(../images/切图/灯具列表页/灯具组合/图像32.png);
+}
